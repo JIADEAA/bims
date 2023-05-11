@@ -1,0 +1,55 @@
+{
+	"code": 200,
+	"msg": [{
+		"p": {
+			"end": [{
+				"identity": 1344,
+				"labels": [
+					"Entity"
+				],
+				"properties": {
+					"name": "TN-S、TT接地形式"
+				}
+			}],
+			"length": 1.0,
+			"segments": [{
+				"end": [{
+					"identity": 1344,
+					"labels": [
+						"Entity"
+					],
+					"properties": {
+						"name": "TN-S、TT接地形式"
+					}
+				}],
+				"relationship": [{
+					"end": 1344,
+					"identity": 940,
+					"properties": {
+						"name": "6.3.7",
+						"type": "隔离变压器"
+					},
+					"start": 1343
+				}],
+				"start": [{
+					"identity": 1343,
+					"labels": [
+						"Entity"
+					],
+					"properties": {
+						"name": "UPS输出端"
+					}
+				}]
+			}],
+			"start": [{
+				"identity": 1343,
+				"labels": [
+					"Entity"
+				],
+				"properties": {
+					"name": "UPS输出端"
+				}
+			}]
+		}
+	}]
+}

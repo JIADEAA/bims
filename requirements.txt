@@ -1,0 +1,5 @@
+openai~=0.8.0
+pandas~=1.1.5
+tqdm~=4.64.1
+flask~=2.0.3
+hanlp~=2.1.0b49
